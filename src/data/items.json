@@ -3,24 +3,24 @@
       "id": 1,
       "name": "Book",
       "price": 1800,
-      "imgUrl": "/images/book.jpg"
+      "imgUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 2,
       "name": "Computer",
       "price": 215000,
-      "imgUrl": "/images/computer.jpg"
+      "imgUrl": "https://images.unsplash.com/photo-1551739440-5dd934d3a94a?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 3,
       "name": "Banana",
       "price": 350,
-      "imgUrl": "/images/banana.jpg"
+      "imgUrl": "https://images.unsplash.com/photo-1603833665858-e61d17a86224?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 4,
       "name": "Car",
       "price": 2075000,
-      "imgUrl": "/images/car.jpg"
+      "imgUrl": "https://images.unsplash.com/photo-1494905998402-395d579af36f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
