@@ -8,6 +8,7 @@ function App() {
   return (
     <ShoppingCartProvider>
       <Navbar />
+      <Store />
       <Container className="mb-4">
         <Routes>
           <Route path="/" element={<Store />} />
